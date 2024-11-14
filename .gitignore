@@ -1,0 +1,27 @@
+# Ignore all of the dataset
+airplane/
+bicycle/
+bird/
+boat/
+bottle/
+bus/
+car/
+cat/
+chair/
+cow/
+data/
+dataset/
+diningtable/
+dog/
+examples/
+horse/
+motorbike/
+networks/
+options/
+person/
+pottedplant/
+sheep/
+sofa/
+train/
+tvmonitor/
+weights/.pth
